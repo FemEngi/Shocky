@@ -25,6 +25,7 @@ have fun!!!
 
 note if you use it for remote play, close the program once done otherwise the connection code will always be active!
 
+for more information and case designs to 3d print
 join our discord! https://discord.gg/CtpSstWZ
 
 Parts:

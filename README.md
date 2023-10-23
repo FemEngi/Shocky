@@ -25,6 +25,8 @@ have fun!!!
 
 note if you use it for remote play, close the program once done otherwise the connection code will always be active!
 
+join our discord! https://discord.gg/CtpSstWZ
+
 Parts:
 
 esp32-c3 
@@ -37,4 +39,4 @@ https://www.aliexpress.com/item/1005003436580019.html?spm=a2g0o.productlist.main
 
 collar
 
-https://www.aliexpress.com/item/1005005823699736.html?pdp_npi=3%40dis!USD!US%20%2422.69!US%20%2411.34!!!!!%40211b813f16978215655703944e18ec!12000034479859821!im!!
+https://www.aliexpress.com/item/1005005823699736.html?pdp_npi=3%40dis!USD!US%20%2422.69!US%20%2411.34!!!!!%40211b813f16978215655703944e18ec!12000034479859821!im

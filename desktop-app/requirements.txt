@@ -1,0 +1,6 @@
+customtkinter
+esptool
+mttkinter
+paho_mqtt
+pyserial
+Requests

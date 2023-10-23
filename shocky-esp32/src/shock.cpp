@@ -5,7 +5,7 @@
 
 //setup collar
 const uint16_t tx_pin = 13;
-CH8803 collar = CH8803(tx_pin, 0);
+CH8803 collar = CH8803(tx_pin, 37);
 
 
 
@@ -27,15 +27,15 @@ void shock(int mode_raw,float duration_raw, uint8_t power_raw) {
   switch (mode_raw)
   {
     case 1:
-      collar.sendShock(power_raw, duration_raw);
+      collar.sendShock(power_raw, duration_raw*1000);
       break;
 
     case 2:
-      collar.sendVibration(power_raw, duration_raw);
+      collar.sendVibration(power_raw, duration_raw*1000);
       break;
 
     case 3:
-      collar.sendAudio(power_raw, duration_raw);
+      collar.sendAudio(power_raw, duration_raw*1000);
       break;
 
     default:
